@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/random-story-bag/static/css/main.c505b44b.css",
+    "main.js": "/random-story-bag/static/js/main.6e243b4a.js",
+    "static/media/RubikDirt-Regular.ttf": "/random-story-bag/static/media/RubikDirt-Regular.7c2e9501e6fa6713b659.ttf",
+    "static/media/Neucha-Regular.ttf": "/random-story-bag/static/media/Neucha-Regular.543eb5219232aab34519.ttf",
+    "static/media/pic.jpg": "/random-story-bag/static/media/pic.fe91cbf20f94b5f615c1.jpg",
+    "index.html": "/random-story-bag/index.html",
+    "main.c505b44b.css.map": "/random-story-bag/static/css/main.c505b44b.css.map",
+    "main.6e243b4a.js.map": "/random-story-bag/static/js/main.6e243b4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c505b44b.css",
+    "static/js/main.6e243b4a.js"
+  ]
+}
